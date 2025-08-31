@@ -4,4 +4,5 @@
 2. Slices.
 3. Maps.
 4. Fibonacci.
-5. Error.
+5. Stringers.
+6. Error.
