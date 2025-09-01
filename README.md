@@ -8,4 +8,5 @@
 6. Error.
 7. Reader.
 8. Rot13.
-9. Generics.
+9. Image.
+10. Generics.
